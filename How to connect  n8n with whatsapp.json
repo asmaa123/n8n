@@ -185,12 +185,10 @@
         -384
       ],
       "id": "68c345f7-2ad1-435c-8713-45485c331fc6",
-      "name": "Get Audio URL",
-      "webhookId": "d7f338ae-9a3d-484e-b2ba-bd5d2e373e55",
+      "name": "Get Audio ",
       "credentials": {
         "whatsAppApi": {
-          "id": "XiB2It3EDC037C45",
-          "name": "WhatsApp account 3"
+          "id": ""         "name": "WhatsApp account 3"
         }
       }
     },
